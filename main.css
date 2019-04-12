@@ -1,0 +1,19 @@
+p.solid {border-style: solid;}
+body {background-color: rgb(74, 94, 114);}
+font {font-family: courier;}
+a:link, a:visited {
+        color: black;
+        background-color:rgb(105, 117, 129);
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+ a:hover, a:active {
+        background-color: rgb(105, 117, 129);
+}
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
