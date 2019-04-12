@@ -17,3 +17,32 @@ img {
         margin-left: auto;
         margin-right: auto;
 }
+.img-circle {
+        border: 3px solid white;
+        border-radius: 50%;
+}
+.section {
+        background-color: #fff;
+        padding: 15px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+}
+.section {
+        color: black;
+        background-color:rgb(105, 117, 129);
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+.copyright {
+        font-size: 9pt;
+        text-align: right;
+        padding-bottom: 10px;
+        color: grey;
+}
+h3 span {
+        text-align: center;
+        text-decoration: none;
+        display: inline-flex;
+}
