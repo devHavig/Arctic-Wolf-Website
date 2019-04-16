@@ -46,3 +46,7 @@ h3 span {
         text-decoration: none;
         display: inline-flex;
 }
+.center {
+        padding-right: 75px;
+        margin: 0 auto;
+}
